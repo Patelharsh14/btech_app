@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89398953927",
+    "firebase_url": "https://empirical-radio-426007-j2-default-rtdb.firebaseio.com",
+    "project_id": "empirical-radio-426007-j2",
+    "storage_bucket": "empirical-radio-426007-j2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89398953927:android:2cbee16af0f5ccdbfc3be2",
+        "android_client_info": {
+          "package_name": "com.example.btech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89398953927-g7eb97oo8lk2makpafgkk2h9b8ruvjgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btech_app",
+            "certificate_hash": "f318f0522032ed10a44ffd5d61b9572b4d3da67d"
+          }
+        },
+        {
+          "client_id": "89398953927-jjr73df6e9r08o3df1i364g8ko1b3no4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDys3rPh0kmCvn0QnihjTtgD1GlbeLkLR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89398953927-jjr73df6e9r08o3df1i364g8ko1b3no4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
